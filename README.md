@@ -2,6 +2,9 @@
 
 Controle une souris et des raccourcis clavier avec une manette Xbox (USB).
 
+Présentation Youtube
+https://youtu.be/HY-ZD6v4KuM
+
 ## Fonctionnalités
 
 - Joy gauche = orbit Fusion (Shift + clic molette + souris)
